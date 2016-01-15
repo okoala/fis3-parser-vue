@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fis3 parser vue",
   "main": "index.js",
   "scripts": {
