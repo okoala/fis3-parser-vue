@@ -1,6 +1,6 @@
 'use strict';
 
-var compiler = require('vueify').compiler;
+var compiler = require('vueify-sync').compiler;
 
 module.exports = function (content, file, conf) {
   var result = ''

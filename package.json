@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-vue",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "fis3 parser vue",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/okoala/fis3-parser-vue#readme",
   "dependencies": {
-    "vueify": "^8.3.2"
+    "vueify-sync": "^0.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
